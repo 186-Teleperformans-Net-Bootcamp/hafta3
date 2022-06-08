@@ -1,4 +1,4 @@
-# 2. Hafta Ödev 2
+# 3. hafta
 
 > Sosyal ağ veritabanı tasarlayın
 
